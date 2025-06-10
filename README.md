@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kerin! I'm a passionate cybersecurity analyst
+<h1>Hi, I'm Kerin! Cybersecurity Analyst
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
