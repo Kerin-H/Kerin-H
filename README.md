@@ -5,7 +5,6 @@
 - <b>Azure/Cloud Projects</b>
   - [Creating a LIVE SOC/Honey Net in Azure](https://github.com/Kerin-H/Azure-SOC)
     
-[linkedin]: www.linkedin.com/in/KerinHudak
 
 
 
