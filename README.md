@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kerin! Cybersecurity Analyst
+<h1>Hi, I'm Kerin! Healthcare IT | EHR Systems | COTA/L
 
 <h2>👨‍💻 My Projects:</h2>
 
